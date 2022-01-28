@@ -1,3 +1,3 @@
 # CS 5200
 
-For MST class CS5200 Analysis of Algorithms semester project.
+For Missouri University of Science and Technology class CS5200 Analysis of Algorithms semester project.
